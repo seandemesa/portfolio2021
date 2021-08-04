@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio2021/static/css/main.338eadc8.chunk.css",
+    "main.js": "/portfolio2021/static/js/main.1968273d.chunk.js",
+    "main.js.map": "/portfolio2021/static/js/main.1968273d.chunk.js.map",
+    "runtime-main.js": "/portfolio2021/static/js/runtime-main.98152457.js",
+    "runtime-main.js.map": "/portfolio2021/static/js/runtime-main.98152457.js.map",
+    "static/js/2.a8af9c76.chunk.js": "/portfolio2021/static/js/2.a8af9c76.chunk.js",
+    "static/js/2.a8af9c76.chunk.js.map": "/portfolio2021/static/js/2.a8af9c76.chunk.js.map",
+    "index.html": "/portfolio2021/index.html",
+    "static/css/main.338eadc8.chunk.css.map": "/portfolio2021/static/css/main.338eadc8.chunk.css.map",
+    "static/js/2.a8af9c76.chunk.js.LICENSE.txt": "/portfolio2021/static/js/2.a8af9c76.chunk.js.LICENSE.txt",
+    "static/media/AIAgentNew.dede2734.jpg": "/portfolio2021/static/media/AIAgentNew.dede2734.jpg",
+    "static/media/CitruscideBosses.2fcf6a14.jpg": "/portfolio2021/static/media/CitruscideBosses.2fcf6a14.jpg",
+    "static/media/StuffYouWatchLanding.b5d5c016.jpg": "/portfolio2021/static/media/StuffYouWatchLanding.b5d5c016.jpg",
+    "static/media/TXCovid19Charts.944d0fb2.jpg": "/portfolio2021/static/media/TXCovid19Charts.944d0fb2.jpg",
+    "static/media/YourFinanceTracker02.006f0fec.jpg": "/portfolio2021/static/media/YourFinanceTracker02.006f0fec.jpg",
+    "static/media/App.css": "/portfolio2021/static/media/keyboardBG02.f57dce6e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98152457.js",
+    "static/js/2.a8af9c76.chunk.js",
+    "static/css/main.338eadc8.chunk.css",
+    "static/js/main.1968273d.chunk.js"
+  ]
+}
